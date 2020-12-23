@@ -1,91 +1,83 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Eesh Gupta's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+# Eesh Gupta
+Undergraduate Physics Student at Rutgers University
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+### Undergraduate Research Assistant
+#### Supervisor: Stephen Schnetzer, Ph.D.
+Topic: Quantum computations of molecular ground states; investigating Variational Quantum Eigensolver (VQE) in computing ground state enrgy of the Hydrogen molecule; Comparing noise amplification techniques in Zero Noise Extrapolation (ZNE)
 
 ### Research interests
+Quantum Computing & Many Body Physics:
+	Variational algorithms, error mitigation, applications to chemistry
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019 - Present`
+__Rutgers University, New Brunswick.__
+B.S. in Physics
+B.A. in Computer Science
+Activities and Societies: Society of Physics Students, Rutgers Concert Band
 
-`June 1661 - now`
-__Trinity College, Cambridge__
 
-- Sizar
+## Research Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Summer 2020`
+### Research Assistant
+#### Summer Science Program
+#### Aresty Research Center, Rutgers University
+Supervisor: Stephen Schnetzer, Ph.D.
+Topic: Error mitigation; Analysis of Polynomial and Richardson Extrapolation in error mitigating computation of molecular ground state of the Hydrogen molecule.
 
-- Fellow
+`Summer 2018`
+### Research Programming Intern
+#### University of Nebaraska-Lincoln	
+Supervisor: Ashu Guru, Ph.D.
+Topic: Agricultural Education; front-end programming on “Agpocalypse 2050” project; investigated criteria for effective, educational video games 
 
+
+## Presentations
+
+`July 2020`
+### Poster Presentation, “Error Mitigating Quantum Computation of Molecular Ground States” 
+Aresty Undergraduate Research Symposium
+
+`Summer 2020`
+### Talk, “Quantum Computing Electronic Structure” 			           	     
+	Delivered to:
+-	Governor’s School of New Jersey                               
+-	NJAAPT Workshop on Quantum Computing for High School Teachers  
+-	The Remsing Group, Rutgers University
+-	Stephen Schnetzer’s Vector Like Quarks (VLQ) group
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+IBM Qiskit Advocate Certification
+Recognized for contributions (code, outreach) to IBM’s quantum computing community
 
-Associate, *French Academy of Science*, Paris, France
+`2019 - Present`
+Dean’s List
+Rutgers University
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2019`
+AP Scholar with Distinction
+Edison High School, NJ
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2020 -->
 
 
